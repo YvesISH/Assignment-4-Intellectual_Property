@@ -30,17 +30,18 @@ Makefile: Used to compile the project.
 Clone the repository:
 
 
-##### git clone <repository-url>
-##### cd <repository-directory>
+###### git clone <repository-url>
+###### cd <repository-directory>
 
 Compile the code using the Makefile:
 
 
-##### make
+###### make
 
 This will produce an executable named blockchain.
 
 ### Usage
+
 #### Running the Program
 To run the blockchain program, use the following command:
 
