@@ -4,7 +4,7 @@ This project is a simple blockchain implementation in C that allows you to creat
 
 ### Features
 
-###### Genesis Block Creation: Initializes the blockchain with the first block (genesis block).
+##### Genesis Block Creation: Initializes the blockchain with the first block (genesis block).
 
 ##### Adding Blocks: Adds new blocks with file metadata, timestamps, and hash linkage to previous blocks.
 
@@ -17,8 +17,8 @@ This project is a simple blockchain implementation in C that allows you to creat
 C Compiler: This project requires a C compiler, such as gcc.
 OpenSSL Library: The project uses OpenSSL for SHA-256 hashing. Install OpenSSL with:
 
-##### sudo apt-get update
-##### sudo apt-get install libssl-dev
+###### sudo apt-get update
+###### sudo apt-get install libssl-dev
 
 
 ### Files
