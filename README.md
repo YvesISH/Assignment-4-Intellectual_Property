@@ -85,11 +85,15 @@ Blockchain is invalid
 ### Code Explanation
 The code performs the following main tasks:
 
-Calculate SHA-256 Hash: Each block's data is hashed to generate a unique identifier.
-Genesis Block: Initializes the blockchain with a starting block.
-Add New Blocks: Adds subsequent blocks with links to previous blocks.
-Validation: Checks if all blocks are correctly linked by their hashes.
-Tampering Detection: Any modification in data will break the hash chain, marking the blockchain as invalid.
+##### Calculate SHA-256 Hash: Each block's data is hashed to generate a unique identifier.
+
+##### Genesis Block: Initializes the blockchain with a starting block.
+
+##### Add New Blocks: Adds subsequent blocks with links to previous blocks.
+
+##### Validation: Checks if all blocks are correctly linked by their hashes.
+
+##### Tampering Detection: Any modification in data will break the hash chain, marking the blockchain as invalid.
 
 
 ### Cleaning Up
