@@ -45,8 +45,8 @@ This will produce an executable named blockchain.
 To run the blockchain program, use the following command:
 
 
-##### Copy code
-##### ./blockchain
+
+###### ./blockchain
 
 
 ### Expected Output
