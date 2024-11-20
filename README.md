@@ -100,5 +100,5 @@ The code performs the following main tasks:
 To remove the executable, use the following command:
 
 
-##### Copy code
-##### make clean
+
+###### make clean
